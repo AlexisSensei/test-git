@@ -1,0 +1,9 @@
+h1 ~ p {
+    color: orangered;
+}
+
+h2 {
+    color: greenyellow;
+    text-decoration: underline;
+}
+
